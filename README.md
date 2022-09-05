@@ -29,7 +29,7 @@ The dataset contains 6280 records (1986-2016) which represent in 15 features. Fo
 During this project, we perform some basic data cleaning and assess the correlation between the numeric feature and all of the features together to understand which attributes are having a significant effect on the revenue of movies.
 
 
-## Tài liệu tham khảo
+## References
 [1] Data Analyst Portfolio Project | Correlation in Python | Project 4/4
 URL: https://www.youtube.com/watch?v=iPYVYBtUTyE
 
